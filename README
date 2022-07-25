@@ -50,6 +50,7 @@ FAQ
     the command
 
     $ kpsewhich texmf.cnf
+   
 
     Then open the file as root with the command
 
