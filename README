@@ -25,7 +25,6 @@ To compile a PDF version of the book, run the command
 
 $ make
 
-
 To delete junk files resulting from the compilation process, run
 
 $ make clean
