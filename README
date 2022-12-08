@@ -1,6 +1,5 @@
 Algorithmic Graph Theory  
 
-
 http://code.google.com/p/graph-theory-algorithms-book/
 Copyright (C) 2010 David Joyner <wdjoyner@gmail.com>
 Copyright (C) 2009--2012 Minh Van Nguyen <mvngu.name@gmail.com>
@@ -22,6 +21,7 @@ $ hg clone https://graph-theory-algorithms-book.googlecode.com/hg/ graph-theory
 $ hg clone http://graph-theory-algorithms-book.googlecode.com/hg/ graph-theory
 
 To compile a PDF version of the book, run the command
+
 
 $ make
 
