@@ -35,8 +35,9 @@ files resulting from the compilation process. The file util.sh is a script
 that interfaces with utilities under the directory bin/.
 
 
+
 FAQ
-===
+====
 
 (1) Question: I'm getting error messages to the following effect when
     compiling the book:
