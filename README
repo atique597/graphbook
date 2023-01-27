@@ -15,7 +15,7 @@ the file LICENSE for the licensing terms of the book.
 The book is written using LaTeX [6] and TikZ/PGF [7]. It uses
 Mercurial [8] as its version control system. To clone the latest
 revision of the  book, ensure you have Mercurial installed on your
-system.. Then issue any of the following commands from your command
+system... Then issue any of the following commands from your command
 line:
 
 $ hg clone https://graph-theory-algorithms-book.googlecode.com/hg/ graph-theory
