@@ -19,7 +19,7 @@ system... Then issue any of the following commands from your command
 line:
 
 $ hg clone https://graph-theory-algorithms-book.googlecode.com/hg/ graph-theory
-$ hg clone http://graph-theory-algorithms-book.googlecode.com/hg/ graph-theory
+$ hg clone http://graph-theory-algorithms-book.googlecode..com/hg/ graph-theory
 
 To compile a PDF version of the book, run the command
 
